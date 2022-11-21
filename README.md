@@ -1,2 +1,49 @@
-# Customers_Demographics
-Performing analysis on customer demographics data by first doing some transformation with azure databricks and after analysis with powerBI 
+# Case-Study-Sales_CustomerDemographics
+<h3><b>Aim</b></h3> 
+ To perform analytics on Sales and Customer Demographics data using Azure Databricks and PowerBI</p>
+ 
+<h3><b>Problem Statement</b></h3> 
+We will dig deeper into some of the Databricks features for this project. As for transformation spark is the most popular tools in big data. This is due to the years of experience and expertise put into training, acceptance, tooling, standard development, and re-engineering. So, in many circumstances, employing these excellent spark tools to access data may answer many analytical queries.
+
+This big data project will look at capabilities to run analytical queries on massive datasets. We will use the dataset in a SQL database for this project, and we'll need to ingest and modify the data. We'll use sales and Customer demographics data to perform analysis and answer the following questions:
+<li>Total Purchase based on YearlyIncome and Education</li><br>
+<li>Numbers of cars Owned based on YearlyIncome</li><br>
+<li>Total Purchase based on CommuteDistance and Occupation</li><br>
+
+<h3>Technologies used to work in project</h3>
+<ul>
+<h4><li>Azure SQL Database</li></h4>
+<h4><li>Azure Databricks</li></h4>
+  
+<ul>
+ <li>Azure Data Factory</li>
+ <li>PowerBI</li>
+</li>
+</ul> 
+</ul>
+
+
+<h3>Data Source Description</h3>
+<p> In this project, we will be using Customer test, Individual test tables from this database. </p>
+
+<p>&nbsp;&nbsp; &nbsp;&nbsp;  <b>Customer Test</b>: This table contain all customer data related information.</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp;  <b>Individual Text</b>: This table contain all Individual data information.</p>
+
+![image](https://user-images.githubusercontent.com/100192276/159165809-b0e591e2-9b0e-404e-9f04-41a25f6b8ac9.png)
+
+
+# Project Architecture
+
+![Customer_demographics_project_architecture](https://user-images.githubusercontent.com/64693763/202996156-b6fc0e9f-7efa-485d-9a05-e50300f28451.png)
+
+# Steps performed to achive the task
+<ul>
+<li>Create tables in Azure SQL database.</li><br>
+<li>Load data in Azure SQL Database.</li><br>
+<li>Connect tables in databricks and create dataframes.</li><br>
+<li>Join both he dataframes in databricks.</li><br>
+<li>Perform transformation and cleaning in databricks using pyspark.</li><br>
+<li>Load the data back in new table in SQL database.</li><br>
+<li>Connect data with PowerBI.</li><br>
+<li>Perform analytics on Sales and Customer demographics data Using PowerBI.</li><br>
+</ul>
