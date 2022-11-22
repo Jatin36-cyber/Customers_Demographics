@@ -46,7 +46,7 @@ This big data project will look at capabilities to run analytical queries on mas
 <li>Create tables in Azure SQL database.</li><br>
 <li>Load data in Azure SQL Database.</li><br>
 <li>Connect tables in databricks and create dataframes.</li><br>
-<li>Join both he dataframes in databricks.</li><br>
+<li>Join both the dataframes in databricks.</li><br>
 <li>Perform transformation and cleaning in databricks using pyspark.</li><br>
 <li>Load the data back in new table in SQL database.</li><br>
 <li>Connect data with PowerBI.</li><br>
