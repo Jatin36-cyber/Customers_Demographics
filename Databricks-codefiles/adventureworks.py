@@ -17,9 +17,9 @@ import xml.etree.ElementTree as ET
 # COMMAND ----------
 
 driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver"
-user = "sqlusr"
-password = "sql@usr@123"
-url="jdbc:sqlserver://adventure-work.database.windows.net:1433;database=adventure_works;user=sqlusr@adventure-work;password={your_password_here};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;"
+user = "sql-username"
+password = "sql-password"
+url="jdbc-connection-url"
 
 individual_df = (spark.read.format("jdbc") \
                  .option("driver", driver) \
