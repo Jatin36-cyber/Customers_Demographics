@@ -26,8 +26,8 @@ This big data project will look at capabilities to run analytical queries on mas
 <h3>Data Source Description</h3>
 <p> In this project, we will be using Customer test, Individual test tables from this database. </p>
 
-<p>&nbsp;&nbsp; &nbsp;&nbsp;  <b>Customer Test</b>: This table contain all customer data related information.</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;  <b>Individual Text</b>: This table contain all Individual data information.</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp;  <b>Customer</b>: This table contain all customer data related information.</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp;  <b>Individual</b>: This table contain all Individual data information.</p>
 
 ![tables drawio](https://user-images.githubusercontent.com/64693763/203236419-e246542b-a8f3-4b5d-8331-6be20cbd99b1.png)
 
