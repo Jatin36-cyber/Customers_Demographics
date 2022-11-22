@@ -29,7 +29,7 @@ This big data project will look at capabilities to run analytical queries on mas
 <p>&nbsp;&nbsp; &nbsp;&nbsp;  <b>Customer Test</b>: This table contain all customer data related information.</p>
 <p>&nbsp;&nbsp; &nbsp;&nbsp;  <b>Individual Text</b>: This table contain all Individual data information.</p>
 
-![image](https://user-images.githubusercontent.com/100192276/159165809-b0e591e2-9b0e-404e-9f04-41a25f6b8ac9.png)
+![tables drawio](https://user-images.githubusercontent.com/64693763/203236419-e246542b-a8f3-4b5d-8331-6be20cbd99b1.png)
 
 
 # Project Architecture
