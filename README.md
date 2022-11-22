@@ -14,12 +14,9 @@ This big data project will look at capabilities to run analytical queries on mas
 <ul>
 <h4><li>Azure SQL Database</li></h4>
 <h4><li>Azure Databricks</li></h4>
-  
-<ul>
- <li>Azure Data Factory</li>
- <li>PowerBI</li>
-</li>
-</ul> 
+<h4><li>Azure Data Factory</li></h4>
+<h4><li>PowerBI</li></h4>
+</li> 
 </ul>
 
 
