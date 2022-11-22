@@ -32,6 +32,11 @@ This big data project will look at capabilities to run analytical queries on mas
 ![tables drawio](https://user-images.githubusercontent.com/64693763/203236419-e246542b-a8f3-4b5d-8331-6be20cbd99b1.png)
 
 
+<p>&nbsp;&nbsp; &nbsp;&nbsp;  <b>Cust_Ind</b>: This is the final table after joining and performing transformations on above tables.</p>
+
+![finaltable](https://user-images.githubusercontent.com/64693763/203236845-57f87492-6d10-4637-885c-6be7f8c280e6.png)
+
+
 # Project Architecture
 
 ![Customer_demographics_project_architecture](https://user-images.githubusercontent.com/64693763/202996156-b6fc0e9f-7efa-485d-9a05-e50300f28451.png)
